@@ -1,0 +1,134 @@
+[
+ {
+  "type": "count",
+  "q": "How many black chairs are next to the chairs?",
+  "a": "2",
+  "steps": 7,
+  "imgs": [
+   "val135_0.jpg",
+   "val135_1.jpg",
+   "val135_2.jpg"
+  ]
+ },
+ {
+  "type": "count",
+  "q": "How many chalk boards are there?",
+  "a": "2",
+  "steps": 8,
+  "imgs": [
+   "val335_0.jpg",
+   "val335_1.jpg",
+   "val335_2.jpg"
+  ]
+ },
+ {
+  "type": "colour",
+  "q": "What color is the table against blackboard?",
+  "a": "brown",
+  "steps": 3,
+  "imgs": [
+   "val330_0.jpg",
+   "val330_1.jpg",
+   "val330_2.jpg"
+  ]
+ },
+ {
+  "type": "colour",
+  "q": "What's the color of the chair stacked in a row?",
+  "a": "brown",
+  "steps": 7,
+  "imgs": [
+   "val136_0.jpg",
+   "val136_1.jpg",
+   "val136_2.jpg"
+  ]
+ },
+ {
+  "type": "nearest",
+  "q": "What objects are closest to windowsill on shorter desk?",
+  "a": "monitor",
+  "steps": 7,
+  "imgs": [
+   "val219_0.jpg",
+   "val219_1.jpg",
+   "val219_2.jpg"
+  ]
+ },
+ {
+  "type": "colour",
+  "q": "What color is the cabinet next to the fridge?",
+  "a": "brown",
+  "steps": 8,
+  "imgs": [
+   "val678_0.jpg",
+   "val678_1.jpg",
+   "val678_2.jpg"
+  ]
+ },
+ {
+  "type": "placement",
+  "q": "Where is the laptop located?",
+  "a": "on desk",
+  "steps": 7,
+  "imgs": [
+   "val560_0.jpg",
+   "val560_1.jpg",
+   "val560_2.jpg"
+  ]
+ },
+ {
+  "type": "placement",
+  "q": "Where are the two different size tables located in room?",
+  "a": "in center of room",
+  "steps": 7,
+  "imgs": [
+   "val331_0.jpg",
+   "val331_1.jpg",
+   "val331_2.jpg"
+  ]
+ },
+ {
+  "type": "colour",
+  "q": "What color is the wooden desk on the first row of the classroom?",
+  "a": "brown",
+  "steps": 7,
+  "imgs": [
+   "val91_0.jpg",
+   "val91_1.jpg",
+   "val91_2.jpg"
+  ]
+ },
+ {
+  "type": "on top",
+  "q": "What is on the ottoman?",
+  "a": "backpack",
+  "steps": 7,
+  "imgs": [
+   "val451_0.jpg",
+   "val451_1.jpg",
+   "val451_2.jpg"
+  ]
+ },
+ {
+  "type": "object",
+  "q": "What is placed in front of a desk?",
+  "a": "chair",
+  "steps": 6,
+  "imgs": [
+   "val93_0.jpg",
+   "val93_1.jpg",
+   "val93_2.jpg"
+  ]
+ },
+ {
+  "type": "object",
+  "q": "What type of loveseat is in a library?",
+  "a": "black leather loveseat",
+  "steps": 6,
+  "imgs": [
+   "val748_0.jpg",
+   "val748_1.jpg",
+   "val748_2.jpg"
+  ]
+ }
+]

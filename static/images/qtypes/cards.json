@@ -1,0 +1,74 @@
+[
+ {
+  "qtype": "existence",
+  "question": "Is there a sink in the room?",
+  "answer": "no",
+  "scene": "scene0588_02",
+  "coverage": 0.865,
+  "median_depth_m": 3.04,
+  "image": "static/images/qtypes/existence.jpg"
+ },
+ {
+  "qtype": "compare_count",
+  "question": "Which is there more of, pillows or televisions?",
+  "answer": "pillow",
+  "scene": "scene0061_00",
+  "coverage": 0.914,
+  "median_depth_m": 2.76,
+  "image": "static/images/qtypes/compare_count.jpg"
+ },
+ {
+  "qtype": "nearest",
+  "question": "Which is closer to the window, the books or the cabinet?",
+  "answer": "books",
+  "scene": "scene0017_01",
+  "coverage": 0.938,
+  "median_depth_m": 2.67,
+  "image": "static/images/qtypes/nearest.jpg"
+ },
+ {
+  "qtype": "count",
+  "question": "How many desks are in the room?",
+  "answer": "2",
+  "scene": "scene0398_00",
+  "coverage": 0.979,
+  "median_depth_m": 2.64,
+  "image": "static/images/qtypes/count.jpg"
+ },
+ {
+  "qtype": "color",
+  "question": "What color is the desk?",
+  "answer": "black",
+  "scene": "scene0279_00",
+  "coverage": 0.956,
+  "median_depth_m": 2.68,
+  "image": "static/images/qtypes/color.jpg"
+ },
+ {
+  "qtype": "vertical",
+  "question": "Which is taller, the sofa or the window?",
+  "answer": "sofa",
+  "scene": "scene0604_01",
+  "coverage": 0.905,
+  "median_depth_m": 2.93,
+  "image": "static/images/qtypes/vertical.jpg"
+ },
+ {
+  "qtype": "size_superlative",
+  "question": "Which is the largest object in the room, the bed or the dresser?",
+  "answer": "bed",
+  "scene": "scene0675_01",
+  "coverage": 0.869,
+  "median_depth_m": 2.7,
+  "image": "static/images/qtypes/size_superlative.jpg"
+ },
+ {
+  "qtype": "on_top",
+  "question": "What is on the desk?",
+  "answer": "lamp",
+  "scene": "scene0679_01",
+  "coverage": 0.885,
+  "median_depth_m": 2.67,
+  "image": "static/images/qtypes/on_top.jpg"
+ }
+]
